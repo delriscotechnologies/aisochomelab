@@ -17,6 +17,4 @@ The write-up covers file integrity monitoring, VirusTotal enrichment, rule-based
 ## References
 
 - [Wazuh documentation](https://documentation.wazuh.com/current/)
-- [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Ollama documentation](https://docs.ollama.com/)
-- [VirusTotal documentation](https://docs.virustotal.com/)
